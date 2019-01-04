@@ -1,7 +1,7 @@
 # react-native-expo-text-input-mask
 This is expo is "forked" from https://github.com/react-native-community/react-native-text-input-mask to solve the issue found on xcode described here https://github.com/react-native-community/react-native-text-input-mask/issues/73
 
-It needs to fix some swift semantic issues what I didn't know how to deal with..
+It needs to fix some swift semantic issues what I donn't know how to deal with..
 
 1. It may work copying the "ios" folder to your "node_modules/react-native-text-input/ios"
 2. Add to your Podfile "pod 'react-native-text-input-mask', :path => '../node_modules/react-native-text-input-mask'"
